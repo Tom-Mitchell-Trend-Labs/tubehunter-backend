@@ -1,5 +1,10 @@
 ## Starting Docker
 
+TODO: https://www.youtube.com/watch?v=ObksvAZyWdo
+Add in pre-commit (messages) and pre-push checks.
+
+Start working on dev work
+
 To start Docker for this project, follow these steps:
 
 1. Open a terminal or command prompt.
